@@ -1,0 +1,4 @@
+name: base-wp
+recipe: wordpress
+config:
+  webroot: .
